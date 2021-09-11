@@ -1,0 +1,846 @@
+1	15609	Abadh Assam Express	Guwahati	Lalgarh Junction
+2	58719	Abhanpur Rajim Ng Passenger	Abhanpur Junction	Rajim
+3	58721	Abhanpur Rajim Ng Passenger	Abhanpur Junction	Rajim
+4	54703	Abohar Jodhpur Passenger	Abohar	Jodhpur Junction
+5	79438	Abu Road Mahesana Demu	Abu Road	Mehsana Junction
+6	55338	Achhnera Kasganj Fast Passenger	Achhnera Junction	Kasganj
+7	22188	Adhartal Habibganj Intercity Express	Adhartal	Bhopal Habibganj
+8	17409	Adilabad Hazur Sahib Nanded Express	Adilabad	Nanded
+9	7501	Adilabad Pandharpur Ekadashi Special	Adilabad	Pandharpur
+10	57554	Adilabad Parli Vaijnath Passenger	Adilabad	Parli Vaijnath
+11	57552	Adilabad Purna Passenger	Adilabad	Purna Junction
+12	58019	Adra - Asansol Passenger	Adra Junction	Asansol Junction
+13	58621	Adra - Barkakana Passenger	Adra Junction	Barkakana
+14	58602	Adra - Kharagpur Passenger	Adra Junction	Kharagpur Junction
+15	68045	Adra Asansol Memu	Adra Junction	Asansol Junction
+16	68061	Adra Asansol Memu	Adra Junction	Asansol Junction
+17	68063	Adra Asansol Memu	Adra Junction	Asansol Junction
+18	68065	Adra Asansol Memu	Adra Junction	Asansol Junction
+19	68067	Adra Asansol Memu	Adra Junction	Asansol Junction
+20	68069	Adra Asansol Memu	Adra Junction	Asansol Junction
+21	68053	Adra Barabhum Memu	Adra Junction	Barabhum
+22	68077	Adra Bhaga Memu	Adra Junction	Bhaga Junction
+23	68075	Adra Bhojudih Memu	Adra Junction	Bhojudih Junction
+24	68082	Adra Bishnupur Memu	Adra Junction	Bishnupur
+25	68084	Adra Bishnupur Memu	Adra Junction	Bishnupur
+26	68098	Adra Garhbeta Memu	Adra Junction	Garhbeta
+27	68041	Adra Junction Barkakana	Adra Junction	Barkakana
+28	68071	Adra Khanudih Memu	Adra Junction	Khanudih
+29	68102	Adra Kharagpur Memu	Adra Junction	Kharagpur Junction
+30	68090	Adra Midnapore Memu	Adra Junction	Midnapore
+31	68057	Adra Purulia Memu	Adra Junction	Purulia Junction
+32	22862	Adra Shalimar Rajya Rani Express	Adra Junction	Kolkata Shalimar
+33	79482	Adraj Moti Vijapur Mg Rail Bus	Adraj Moti	Vijapur
+34	79484	Adraj Moti Vijapur Mg Rail Bus	Adraj Moti	Vijapur
+35	52575	Agartala - Dharmanagar (Meter Gauge) Passenger	Darjeeling	Darjeeling Joy Ride
+36	52579	Agartala - Dharmanagar (Meter Gauge) Passenger	Agartala	Dharmanagar
+37	5665	Agartala - Dharmanagar Passenger Special	Agartala	Dharmanagar
+38	5652	Agartala - Guwahati Passenger Special	Agartala	Guwahati
+39	15696	Agartala - Lumding Express	Agartala	Lumding Junction
+40	52563	Agartala - Silchar (Meter Gauge) Passenger	Agartala	Silchar
+41	5663	Agartala - Silchar Passenger Special	Agartala	Silchar
+42	307	Agartala Ambala Cantonment Election Special	Agartala	Ambala Cantonment
+43	20501	Agartala Anand Vihar Terminal Rajdhani Express	Agartala	Anand Vihar Terminus
+44	12504	Agartala Bengaluru Cantt Humsafar Express	Agartala	Bangalore Cantonment
+45	15626	Agartala Deoghar Weekly Express	Agartala	Deoghar
+46	55675	Agartala Dharmanagar Passenger	Agartala	Dharmanagar
+47	55679	Agartala Dharmanagar Passenger	Agartala	Dharmanagar
+48	01666	Agartala - Habibganj Exp	Agartala	Bhopal Habibganj
+49	356	Agartala Hatia Election Special	Agartala	Hatia
+50	07682	Agtl-Sbrm Dmu Spl	Agartala	Sabroom
+51	07684	Agtl-Sbrm Dmu Spl	Agartala	Sabroom
+52	07688	Agtl-Sbrm Dmu Spl	Agartala	Sabroom
+53	514	Agartala Shri Mata Vaishno Devi Katra Bharat Darshan	Agartala	Shri Mata Vaishno Devi Katra
+54	55663	Agartala Silchar Passenger	Agartala	Silchar
+55	55682	Agartala Udaipur Tripura Passenger	Agartala	Belonia
+56	55684	Agartala Udaipur Tripura Passenger	Agartala	Belonia
+57	12341	Agnibina Express	Howrah Junction	Asansol Junction
+58	12342	Agnibina Express	Asansol Junction	Howrah Junction
+59	12547	Agra Cantt Ahmedabad Super Fast Express	Agra Cantonment	Ahmedabad Junction
+60	64952	Agra Cantt Bayana Memu	Agra Cantonment	Bayana Junction
+61	51901	Agra Cantt Delhi Passenger	Agra Cantonment	Delhi
+62	64160	Agra Cantt Etawah Memu	Agra Cantonment	Etawah
+63	51882	Agra Cantt Gwalior Fast Passenger	Agra Cantonment	Gwalior
+64	64953	Agra Cantt Hazrat Nizamuddin Memu	Agra Cantonment	Hazrat Nizamuddin
+65	51816	Agra Cantt Jhansi Passenger	Agra Cantonment	Jhansi Junction
+66	51832	Agra Cantt Jhansi Passenger	Agra Cantonment	Jhansi Junction
+67	13168	Agra Cantt Kolkata Weekly Express	Agra Cantonment	Kolkata
+68	12320	Agra Cantt Kolkata Weekly Super Fast Express	Agra Cantonment	Kolkata
+69	71909	Agra Cantt Mainpuri Demu	Agra Cantonment	Mainpuri
+70	14211	Agra Cantt New Delhi Intercity Express	Agra Cantonment	New Delhi
+71	64957	Agra Cantt Palwal Memu	Agra Cantonment	Palwal
+72	64955	Agra Cantt Tundla Memu	Agra Cantonment	Tundla Junction
+73	12195	Agra Fort Ajmer Intercity Super Fast Express	Agra Fort	Ajmer Junction
+74	22988	Agra Fort Ajmer Super Fast Express	Agra Fort	Ajmer Junction
+75	4191	Agra Fort Etah Passenger Special	Agra Fort	Etah
+76	12036	Agra Fort Jaipur Shatbdi	Agra Fort	Jaipur
+77	55334	Agra Fort Kasganj Passenger	Agra Fort	Kasganj
+78	59814	Agra Fort Kota Passenger	Agra Fort	Kota Junction
+79	12180	Agra Fort Lucknow Junction Intercity Super Fast Express	Agra Fort	Lucknow
+80	15055	Agra Fort Ramnagar Tri Weekly Express	Agra Fort	Ramnagar
+81	82612	Ahemdabad Chennai Suvidha Special	Tirunelveli Junction	Chennai Egmore
+82	22645	Ahilya Nagari Express	Indore Junction (Bg)	Trivandrum Central
+83	22646	Ahilya Nagari Super Fast Express	Trivandrum Central	Indore Junction (Bg)
+84	16325	Ahilyanagari Express	Indore Junction (Bg)	Trivandrum Central
+85	16326	Ahilyanagari Express	Trivandrum Central	Indore Junction (Bg)
+86	73042	Ahmadpur Katwa Demu	Ahmedpur Junction	Katwa
+87	9427	Ahmedabad - Allahabad Special	Ahmedabad Junction	Allahabad Junction
+88	4804	Ahmedabad - Bhagat Ki Kothi Special	Jodhpur Junction	Ramdevra
+89	52939	Ahmedabad - Botad (Meter Gauge) Passenger	Ahmedabad Junction Mg	Botad Junction
+90	22920	Ahmedabad - Chennai Central Humsafar Express	Ahmedabad Junction	Chennai Central
+91	52920	Ahmedabad - Himmatnagar (Meter Gauge) Passenger	Ahmedabad Junction Mg	Himmatnagar
+92	52922	Ahmedabad - Himmatnagar Passenger	Ahmedabad Junction Mg	Himmatnagar
+93	9425	Ahmedabad - Jaipur Puja Special	Ahmedabad Junction	Jaipur
+94	9418	Ahmedabad - Karmali Specialfare Ganpati Special	Patna Junction	Ahmedabad Junction
+95	52924	Ahmedabad - Khed Brahma (Meter Gauge) Passenger	Ahmedabad Junction Mg	Khed Brahma
+96	52926	Ahmedabad - Khed Brahma (Meter Gauge) Passenger	Ahmedabad Junction Mg	Khed Brahma
+97	9407	Ahmedabad - Lucknow Puja Special	Mehsana Junction	Vadnagar
+98	19912	Ahmedabad - Mahesana (Meter Gauge) Intercity Express	Ahmedabad Junction Mg	Mahesana Jn
+99	9420	Ahmedabad - Mangalore Super Fast Ac Special	Ahmedabad Junction	Mangalore Junction
+100	52916	Ahmedabad - Nandol Dehegam Passenger	Ahmedabad Junction Mg	Nandol Dehegam
+101	52918	Ahmedabad - Nandol Dehegam Passenger	Ahmedabad Junction Mg	Nandol Dehegam
+102	9409	Ahmedabad - Patna Super Fast Special	Ahmedabad Junction	Patna Junction
+103	52914	Ahmedabad - Ranuj (Meter Gauge) Passenger	Ahmedabad Junction Mg	Ranuj
+104	52912	Ahmedabad - Ranuj Mg Fast Passenger	Ahmedabad Junction Mg	Ranuj
+105	19944	Ahmedabad - Udaipur Express	Ahmedabad Junction Mg	Udaipur City
+106	19130	Ahmedabad - Vadodara Inter City	Ahmedabad Junction	Vadodara Junction
+107	6504	Ahmedabad - Yesvantpur Suvidha Special	Ahmedabad Junction	Yesvantpur Junction
+108	12548	Ahmedabad Agra Cantt Super Fast Express	Ahmedabad Junction	Agra Cantonment
+109	19417	Ahmedabad Allahabad Express	Ahmedabad Junction	Allahabad Junction
+110	22967	Ahmedabad Allahabad Weekly Super Fast Express	Ahmedabad Junction	Allahabad Junction
+111	79430	Ahmedabad Anand Demu	Ahmedabad Junction	Anand Junction
+112	69106	Ahmedabad Anand Memu	Ahmedabad Junction	Anand Junction
+113	69116	Ahmedabad Anand Memu	Ahmedabad Junction	Anand Junction
+114	69128	Ahmedabad Anand Memu	Ahmedabad Junction	Anand Junction
+115	69130	Ahmedabad Anand Memu	Ahmedabad Junction	Anand Junction
+116	14804	Ahmedabad Bhagat Ki Kothi Weekly Express	Ahmedabad Junction	Bhagat Ki Kothi
+117	6046	Ahmedabad Chennai Special Fare Special	Trivandrum Central	Karaikal
+118	15560	Ahmedabad Darbhanga Antyodaya Express	Ahmedabad Junction	Darbhanga Junction
+119	19165	Ahmedabad Darbhanga Sabarmati Express	Ahmedabad Junction	Darbhanga Junction
+120	9413	Ahmedabad Delhi Sarai Rohilla Humsafar Special	Ahmedabad Junction	Delhi Sarai Rohilla
+121	69131	Ahmedabad Gandhinagar Memu	Ahmedabad Junction	Gandhinagar Capital
+122	19409	Ahmedabad Gorakhpur Express	Ahmedabad Junction	Gorakhpur Junction
+123	22548	Ahmedabad Gwalior Super Fast Express	Ahmedabad Junction	Gwalior
+124	12833	Ahmedabad Howrah Super Fast Express	Ahmedabad Junction	Howrah Junction
+125	7017	Ahmedabad Hyderabad Special Fare Special	Ahmedabad Junction	Hyderabad Deccan
+126	54805	Ahmedabad Jaipur Passenger	Ahmedabad Junction	Jaipur
+127	19223	Ahmedabad Jammu Tawi Express	Ahmedabad Junction	Jammu Tawi
+128	2207	Ahmedabad Jammu Tawi Gr Spl	Ahmedabad Junction	Jammu Tawi
+129	54804	Ahmedabad Jodhpur Passenger	Ahmedabad Junction	Jodhpur Junction
+130	19401	Ahmedabad Lucknow Express	Ahmedabad Junction	Lucknow
+131	52904	Ahmedabad Mahesana (Meter Gauge) Passenger	Ahmedabad Junction Mg	Mahesana Jn
+132	52908	Ahmedabad Mahesana (Meter Gauge) Passenger	Ahmedabad Junction Mg	Mahesana Jn
+133	52910	Ahmedabad Mahesana Mg Fast Passenger	Ahmedabad Junction Mg	Mahesana Jn
+134	19916	Ahmedabad Mahesana Mg Intercity Express	Ahmedabad Junction Mg	Mahesana Jn
+135	52902	Ahmedabad Mahesana Passenger	Ahmedabad Junction Mg	Mahesana Jn
+136	52906	Ahmedabad Mahesana Passenger	Ahmedabad Junction Mg	Mahesana Jn
+137	19420	Ahmedabad Mgr Chennai Express	Ahmedabad Junction	Chennai Central
+138	6052	Ahmedabad Mgr Chennai Special Fare Special	Ahmedabad Junction	Chennai Central
+139	82652	Ahmedabad Mgr Chennai Suvidha Special	Ahmedabad Junction	Chennai Central
+140	12932	Ahmedabad Mumbai Ac Double Decker Express	Ahmedabad Junction	Mumbai Central
+141	59440	Ahmedabad Mumbai Passenger	Ahmedabad Junction	Mumbai Central
+142	59442	Ahmedabad Mumbai Passenger	Ahmedabad Junction	Mumbai Central
+143	12010	Ahmedabad Mumbai Shatabdi Express	Ahmedabad Junction	Mumbai Central
+144	5270	Ahmedabad Muzaffarpur Jan Sadharan Special	Ahmedabad Junction	Muzaffarpur Junction
+145	15270	Ahmedabad Muzaffarpur Jansadharan Express	Ahmedabad Junction	Muzaffarpur Junction
+146	59547	Ahmedabad Okha Passenger	Ahmedabad Junction	Rajkot Junction
+147	59473	Ahmedabad Patan Passenger	Ahmedabad Junction	Patan
+148	9411	Ahmedabad Patna Ac Special Fare Special	Ahmedabad Junction	Varanasi City
+149	19421	Ahmedabad Patna Express	Ahmedabad Junction	Patna Junction
+150	9417	Ahmedabad Patna Special Fare Special	Ahmedabad Junction	Patna Junction
+151	12297	Ahmedabad Pune Ac Duronto Express	Ahmedabad Junction	Pune Junction
+152	11095	Ahmedabad Pune Ahimsa Express	Ahmedabad Junction	Pune Junction
+153	18406	Ahmedabad Puri Express	Ahmedabad Junction	Puri
+154	12844	Ahmedabad Puri Super Fast Express	Ahmedabad Junction	Puri
+155	11049	Ahmedabad Scsmt Kolhapur Express	Ahmedabad Junction	Kolhapur Cstm
+156	19415	Ahmedabad Shri Mata Vaishno Devi Katra Express	Ahmedabad Junction	Shri Mata Vaishno Devi Katra
+157	19119	Ahmedabad Somnath Intercity Express	Ahmedabad Junction	Somnath
+158	19403	Ahmedabad Sultanpur Express	Ahmedabad Junction	Sultanpur
+159	19036	Ahmedabad Vadodara Intercity Express	Ahmedabad Junction	Vadodara Junction
+160	69102	Ahmedabad Vadodara Memu	Ahmedabad Junction	Vadodara Junction
+161	69108	Ahmedabad Vadodara Memu	Ahmedabad Junction	Vadodara Junction
+162	69114	Ahmedabad Vadodara Memu	Ahmedabad Junction	Vadodara Junction
+163	19167	Ahmedabad Varanasi Sabarmati Express	Ahmedabad Junction	Varanasi Junction
+164	19407	Ahmedabad Varanasi Weekly Express	Ahmedabad Junction	Varanasi Junction
+165	9421	Ahmedabad Varanasi Weekly Summer Special	Ahmedabad Junction	Patna Junction
+166	16501	Ahmedabad Yesvantpur Weekly Express	Ahmedabad Junction	Yesvantpur Junction
+167	15313	Aishbagh - Bareilly Express (Meter Gauge)	Aishbagh	Tanakpur
+168	52244	Aishbagh - Bareilly Passenger (Meter Gauge)	Sitapur	Mailani
+169	52242	Aishbagh - Mailani Passenger	Mailani	Bahraich
+170	52246	Aishbagh - Mailani Passenger	Aishbagh	Mailani
+171	52238	Aishbagh - Pilibhit Passenger (Meter Gauge)	Sitapur	Mailani
+172	52240	Aishbagh - Tikunia Passenger	Mailani	Tikunia
+173	5070	Aishbagh Badsahnagar Special	Aishbagh	Badshahnagar
+174	15314	Aishbagh Express (Meter Gauge)	Tanakpur	Aishbagh
+175	15070	Aishbagh Gorakhpur Intercity Express	Aishbagh	Gorakhpur Junction
+176	64253	Aishbagh Kanpur Kalianpur Memu	Aishbagh	Kalianpur (Kanpur)
+177	51861	Ait Konch Shuttle	Ait	Konch
+178	51863	Ait Konch Shuttle	Ait	Konch
+179	51865	Ait Konch Shuttle	Ait	Konch
+180	51867	Ait Konch Shuttle	Ait	Konch
+181	51869	Ait Konch Shuttle	Ait	Konch
+182	17063	Ajanta Express	Manmad Junction	Secunderabad Junction
+183	17064	Ajanta Express	Secunderabad Junction	Manmad Junction
+184	9627	Ajmer - Delhi Canttonment Specialfare Super Fast Special	Ajmer Junction	Delhi Cantonment
+185	54802	Ajmer - Jodhpur Fast Passenger	Ajmer Junction	Jodhpur Junction
+186	19606	Ajmer - Kolkata Express	Ahmedabad Junction	Kolkata
+187	19603	Ajmer - Rameswaram Humsafar Express	Ajmer Junction	Rameswaram
+188	19654	Ajmer - Ratlam Express	Ajmer Junction	Indore Junction (Bg)
+189	12196	Ajmer Agra Fort Intercity Super Fast Express	Ajmer Junction	Agra Fort
+190	22987	Ajmer Agra Fort Super Fast Express	Ajmer Junction	Agra Fort
+191	19611	Ajmer Amritsar Express	Ajmer Junction	Amritsar Junction
+192	19613	Ajmer Amritsar Express	Ajmer Junction	Amritsar Junction
+193	20902	Ajmer Bandra Link Express	Ajmer Junction	Chittaurgarh
+194	09621	Aii Bdts Sf Spl	Ajmer Junction	Bandra Terminus
+195	22996	Ajmer Bandra Super Fast Express	Ajmer Junction	Chittaurgarh
+196	13424	Ajmer Bhagalpur Weekly Express	Ajmer Junction	Bhagalpur
+197	12983	Ajmer Chandigarh Garib Rath Express	Ajmer Junction	Chandigarh
+198	12990	Ajmer Dadar Western Super Fast Express	Ajmer Junction	Dadar (Western)
+199	12065	Ajmer Delhi Sarai Rohilla Jan Shatabdi Express	Ajmer Junction	Delhi Sarai Rohilla
+200	9623	Ajmer Delhi Sarai Rohilla Special	Ajmer Junction	Delhi Sarai Rohilla
+201	18208	Ajmer Durg Weekly Express	Ajmer Junction	Durg Junction
+202	18214	Ajmer Durg Weekly Express	Ajmer Junction	Durg Junction
+203	22211	Ajmer Hazrat Nizamuddin Duronto	Ajmer Junction	Hazrat Nizamuddin
+204	79601	Ajmer Jaipur Demu	Ajmer Junction	Jaipur
+205	9617	Ajmer Junction - Bandra Terminus Special	Ajmer Junction	Bandra Terminus
+206	2264	Ajmer Junction-Sealdah Special	Ajmer Junction	Sealdah
+207	5616	Ajmer Kamakhya Urs Special Fare Special	Kota Junction	Jhalawar City
+208	15716	Ajmer Kishanganj Garib Nawaz Express	Ajmer Junction	Kishanganj
+209	16531	Ajmer Ksr Bengaluru Express	Ajmer Junction	Bangalore City Junction
+210	59602	Ajmer Marwar Passenger	Ajmer Junction	Marwar Junction
+211	16209	Ajmer Mysuru Express	Ajmer Junction	Mysore City Junction
+212	18422	Ajmer Puri Express	Ajmer Junction	Puri
+213	9655	Ajmer Pushkar Mela Special	Ajmer Junction	Pushkar Terminus
+214	9657	Ajmer Pushkar Mela Special	Ajmer Junction	Pushkar Terminus
+215	59607	Ajmer Pushkar Passenger	Ajmer Junction	Pushkar Terminus
+216	18632	Ajmer Ranchi Garib Nawaz Express	Ajmer Junction	Ranchi
+217	19412	Ajmer Sabarmati Intercity Express	Ajmer Junction	Ahmedabad Junction
+218	18010	Ajmer Santragachi Express	Ajmer Junction	Kolkata Santragachi Junction
+219	12988	Ajmer Sealdah Super Fast Express	Ajmer Junction	Sealdah
+220	2124	Ajni - Pune Ac Super Fast Special	Ajni	Pune Junction
+221	12120	Ajni Amravati Intercity Super Fast Express	Ajni	Amravati
+222	7630	Ajni Hazur Sahib Nanded Special Fare Special	Ajni	Nanded
+223	57135	Ajni Kazipet Passenger	Ajni	Kazipet Junction
+224	11202	Ajni Mumbai Ltt Express	Ajni	Lokmanya Tilak Terminus
+225	22124	Ajni Pune Ac Super Fast Express	Ajni	Pune Junction
+226	22140	Ajni Pune Humsafar Express	Ajni	Pune Junction
+227	1119	Ajni-Karmali Special	Ajni	Thivim
+228	12317	Akal Takht Express	Kolkata	Amritsar Junction
+229	12318	Akal Takht Express	Amritsar Junction	Kolkata
+230	7507	Akola - Kollam (One Trip) Sabarimala Special	Akola Junction	Kollam Junction
+231	52988	Akola - Mhow (Meter Gauge) Fast Passenger	Sanawad	Dr Ambedkar Nagar
+232	52994	Akola - Mhow (Meter Gauge) Passenger	Akola Junction	Mhow
+233	17640	Akola Kacheguda Intercity Express	Akola Junction	Kacheguda
+234	57539	Akola Parli Vaijnath Passenger	Akola Junction	Parli Vaijnath
+235	57581	Akola Purna Passenger	Akola Junction	Purna Junction
+236	57583	Akola Purna Passenger	Akola Junction	Purna Junction
+237	14312	Ala Hazrat Express	Bhuj	Bareilly
+238	14311	Ala Hazrat Express	Bareilly	Bhuj
+239	14322	Ala Hazrat Express	Bhuj	Bareilly
+240	14321	Ala Hazrat Express	Bareilly	Bhuj
+241	13352	Alappuzha Dhanbad Express	Alappuzha	Dhanbad Junction
+242	66314	Alappuzha Ernakulam Memu	Alappuzha	Ernakulam Junction
+243	56302	Alappuzha Ernakulam Passenger	Alappuzha	Ernakulam Junction
+244	56384	Alappuzha Ernakulam Passenger	Alappuzha	Ernakulam Junction
+245	16307	Alappuzha Kannur Executive Express	Alappuzha	Cannanore
+246	56377	Alappuzha Kayamkulam Passenger	Alappuzha	Kayamkulam
+247	66311	Alappuzha Kollam Memu Passenger	Alappuzha	Kollam Junction
+248	56301	Alappuzha Kollam Passenger	Alappuzha	Kollam Junction
+249	22640	Alappuzha Mgr Chennai Super Fast Express	Alappuzha	Chennai Central
+250	18190	Alappuzha Tatanagar Link Express	Rourkela	Tatanagar Junction
+251	54351	Aligarh Bareilly Passenger	Aligarh Junction	Bareilly
+252	54353	Aligarh Bareilly Passenger	Aligarh Junction	Bareilly
+253	64101	Aligarh Delhi Emu	Aligarh Junction	Delhi
+254	64103	Aligarh Delhi Emu	Aligarh Junction	Delhi
+255	64151	Aligarh Delhi Memu	Aligarh Junction	Delhi
+256	54391	Aligarh Gajraula Passenger	Aligarh Junction	Gajraula Junction
+257	4441	Aligarh Junction Ghaziabad Special	Aligarh Junction	Ghaziabad
+258	64105	Aligarh New Delhi Emu	Aligarh Junction	New Delhi
+259	64154	Aligarh Tundla Memu	Aligarh Junction	Tundla Junction
+260	15471	Alipur Duar - Kamakhya Inter City Express	Alipurduar Junction	Kamakhya
+261	15469	Alipur Duar - Lumding Inter City Express	Alipurduar Junction	Lumding Junction
+262	15468	Alipur Duar - New Jalpaiguri Inter City Express	Alipurduar Junction	Siliguri
+263	55765	Alipur Duar Bamanhat Passenger	Alipurduar Junction	Bamanhat
+264	15771	Alipur Duar Kamakhya Intercity Express	Alipurduar Junction	Kamakhya
+265	3130	Alipur Duar Kolkata Special Fare Puja Special	Alipurduar Junction	Kolkata
+266	15769	Alipur Duar Lumding Intercity Express	Alipurduar Junction	Lumding Junction
+267	15768	Alipur Duar Siliguri Intercity Express	Alipurduar Junction	Siliguri
+268	5817	Alipurduar - Dhubri Express Special	Alipurduar Junction	Dhubri
+269	55465	Alipurduar Bamanhat Passenger	Alipurduar Junction	Bamanhat
+270	15692	Alipurduar Junction Silchar I C Express To Be Int	Silchar	Lumding Junction
+271	15417	Alipurduar Junction Silghat Rajya Rani Express	Alipurduar Junction	Shilghat Town
+272	55726	Alipurduar New Jalpaiguri Passenger	Alipurduar Junction	New Jalpaiguri
+273	59120	Alirajpur Pratapnagar Passenger	Alirajpur	Pratapnagar
+274	9428	Allahabad - Ahmedabad Special	Allahabad Junction	Ahmedabad Junction
+275	54104	Allahabad - Chunar Passenger	Allahabad Junction	Chunar
+276	51823	Allahabad - Farrukhabad Passenger	Kanpur Central	Farrukhabad
+277	54107	Allahabad - Jaunpur Passenger	Allahabad Junction	Jaunpur Junction
+278	51820	Allahabad - Jhansi Passenger	Allahabad Junction	Jhansi Junction
+279	54106	Allahabad - Mughal Sarai Passenger	Allahabad Junction	Mughalsarai
+280	12564	Allahabad - Mumbai Ltt Super Fast Express	Faizabad Junction	Lokmanya Tilak Terminus
+281	19418	Allahabad Ahmedabad Express	Allahabad Junction	Ahmedabad Junction
+282	22968	Allahabad Ahmedabad Weekly Super Fast Express	Allahabad Junction	Ahmedabad Junction
+283	4117	Allahabad Anand Vihar Specialfare Super Fast Holi Special	Allahabad Junction	Anand Vihar Terminus
+284	22437	Allahabad Anand Vihar Terminal Humsafar Express	Allahabad Junction	Anand Vihar Terminus
+285	4133	Allahabad Bandra Summer Special	Allahabad Junction	Bandra Terminus
+286	9018	Allahabad Chheoki Bandra Humsafar Special	Allahabd Chheoki	Bandra Terminus
+287	51190	Allahabad Chheoki Itarsi Passenger	Allahabd Chheoki	Itarsi Junction
+288	4130	Allahabad Chitrakutdham Karwi S F Special	Allahabad Junction	Chitrakot
+289	53346	Allahabad Chopan Passenger	Allahabad Junction	Chopan
+290	55126	Allahabad City Manduadih Passenger	Allahabad City	Manduadih
+291	55128	Allahabad City Manduadih Passenger	Allahabad City	Manduadih
+292	55130	Allahabad City Manduadih Passenger	Allahabad City	Manduadih
+293	4119	Allahabad Dr Ambedkar Nagar Special	Allahabad Junction	Dr Ambedkar Nagar
+294	12403	Allahabad Jaipur Super Fast Express	Allahabad Junction	Jaipur
+295	04135	Allahabad Mathura Virangana Superfast Special	Allahabad Junction	Mathura Junction
+296	12294	Allahabad Mumbai Ltt Ac Duronto Express	Allahabad Junction	Lokmanya Tilak Terminus
+297	4115	Allahabad Mumbai Ltt Super Fast Specialfare Special	Allahabad Junction	Lokmanya Tilak Terminus
+298	12275	Allahabad New Delhi Humsafar Express	Allahabad Junction	New Delhi
+299	22431	Allahabad Udhampur Super Fast Express	Allahabad Junction	Udhampur
+300	16041	Alleppey Express	Chennai Central	Alappuzha
+301	14808	Alwar Jaipur Express	Alwar	Jaipur
+302	4805	Alwar Khairthal Special	Alwar	Khairthal
+303	51972	Alwar Mathura Passenger	Alwar	Mathura Junction
+304	75106	Aly-Mau-Dmu-Spl	Allahabad City	Mau Junction
+305	52145	Aman Lodge - Matheran Ng Shuttle	Aman Lodge	Matheran
+306	52147	Aman Lodge - Matheran Shuttle	Aman Lodge	Matheran
+307	52155	Aman Lodge Matheran Shuttle	Aman Lodge	Matheran
+308	52157	Aman Lodge Matheran Shuttle	Aman Lodge	Matheran
+309	52149	Aman Lodge Matheran Shuttle	Aman Lodge	Matheran
+310	52151	Aman Lodge Matheran Shuttle	Aman Lodge	Matheran
+311	52153	Aman Lodge Matheran Shuttle	Aman Lodge	Matheran
+312	12854	Amarkantak Express	Bhopal Junction	Durg Junction
+313	12853	Amarkantak Express	Durg Junction	Bhopal Junction
+314	64564	Amb Andaura Ambala Cantt Memu	Amb Andaura	Ambala Cantonment
+315	22458	Amb Andaura Hazur Sahib Nanded Weekly Super Fast Express	Amb Andaura	Nanded
+316	64563	Ambala Cantt Amb Andaura Memu	Ambala Cantonment	Amb Andaura
+317	54551	Ambala Cantt Bathinda Passenger	Ambala Cantonment	Bhatinda Junction
+318	74991	Ambala Cantt Daulatpur Chowk Demu	Ambala Cantonment	Daulatpur Chowk
+319	14522	Ambala Cantt Delhi Intercity Express	Ambala Cantonment	Delhi
+320	64562	Ambala Cantt Delhi Memu	Ambala Cantonment	Delhi
+321	54553	Ambala Cantt Dhuri Passenger	Ambala Cantonment	Dhuri Junction
+322	54540	Ambala Cantt Hazrat Nizamuddin Passenger	Ambala Cantonment	Hazrat Nizamuddin
+323	74645	Ambala Cantt Jalandhar City Demu	Ambala Cantonment	Jalandhar City
+324	54531	Ambala Cantt Kalka Passenger	Ambala Cantonment	Kalka
+325	74994	Ambala Cantt Kurukshetra Demu	Ambala Cantonment	Kurukshetra Junction
+326	64482	Ambala Cantt Kurukshetra Memu	Ambala Cantonment	Kurukshetra Junction
+327	64546	Ambala Cantt Kurukshetra Memu	Ambala Cantonment	Kurukshetra Junction
+328	64548	Ambala Cantt Kurukshetra Memu	Ambala Cantonment	Kurukshetra Junction
+329	64521	Ambala Cantt Ludhiana Memu	Ambala Cantonment	Ludhiana Junction
+330	64523	Ambala Cantt Ludhiana Memu	Ambala Cantonment	Ludhiana Junction
+331	54542	Ambala Cantt Meerut City Passenger	Ambala Cantonment	Meerut City
+332	64515	Ambala Cantt Nangal Dam Memu	Ambala Cantonment	Nangal Dam
+333	64517	Ambala Cantt Nangal Dam Memu	Ambala Cantonment	Nangal Dam
+334	64532	Ambala Cantt Panipat Memu	Ambala Cantonment	Panipat Junction
+335	64542	Ambala Cantt Panipat Memu	Ambala Cantonment	Panipat Junction
+336	54557	Ambala Cantt Patiala Passenger	Ambala Cantonment	Patiala
+337	64502	Ambala Cantt Saharanpur Memu	Ambala Cantonment	Saharanpur
+338	64504	Ambala Cantt Saharanpur Memu	Ambala Cantonment	Saharanpur
+339	4922	Ambala Cantt Saharanpur Memu Special	Ambala Cantonment	Saharanpur
+340	5534	Ambala Cantt Saharsa Jansadharanspecial	Anand Vihar Terminus	Saharsa Junction
+341	14525	Ambala Cantt Shri Ganganagar Intercity Express	Ambala Cantonment	Shri Ganganagar
+342	54757	Ambala Cantt Shri Ganganagar Passenger	Ambala Cantonment	Shri Ganganagar
+343	54506	Ambala Delhi Passenger	Ambala Cantonment	Delhi
+344	54511	Ambala Nangal Dam Passenger	Ambala Cantonment	Nangal Dam
+345	56924	Ambewadi Dharwad Passenger	Ambewadi	Dharwar
+346	58224	Ambikapur - Anuppur Passenger	Ambikapur	Anuppur Junction
+347	68758	Ambikapur Anuppur Memu	Ambikapur	Anuppur Junction
+348	18242	Ambikapur Durg Express Cum Passenger	Ambikapur	Durg Junction
+349	11266	Ambikapur Madan Mahal Intercity Express	Ambikapur	Madan Mahal
+350	68750	Ambikapur Shahdol Memu	Ambikapur	Shahdol
+351	58702	Ambikapur Shahdol Passenger	Ambikapur	Shahdol
+352	51239	Amla Betul Passenger	Amla Junction	Betul
+353	51253	Amla Chhindwara Passenger	Amla Junction	Chhindwara Junction
+354	51294	Amla Nagpur Passenger	Amla Junction	Nagpur
+355	15708	Amrapali Express	Amritsar Junction	Katihar Junction
+356	15707	Amrapali Express	Katihar Junction	Amritsar Junction
+357	19707	Amrapur Aravali Express	Bandra Terminus	Shri Ganganagar
+358	19708	Amrapur Aravali Express	Shri Ganganagar	Bandra Terminus
+359	59026	Amravati - Surat Passenger	Amravati	Surat
+360	9050	Amravati - Udhna (Tri - Weeekly) Fast Passenger Special	Amravati	Udhna Junction
+361	12119	Amravati Ajni Intercity Super Fast Express	Amravati	Ajni
+362	51136	Amravati Badnera Passenger	Amravati	Badnera Junction
+363	51138	Amravati Badnera Passenger	Amravati	Badnera Junction
+364	51140	Amravati Badnera Passenger	Amravati	Badnera Junction
+365	51142	Amravati Badnera Passenger	Amravati	Badnera Junction
+366	51146	Amravati Badnera Passenger	Amravati	Badnera Junction
+367	51148	Amravati Badnera Passenger	Amravati	Badnera Junction
+368	51150	Amravati Badnera Passenger	Amravati	Badnera Junction
+369	12159	Amravati Jabalpur Super Fast Express	Amravati	Jabalpur
+370	12112	Amravati Mumbai Csmt Super Fast Express	Amravati	Chhatrapati Shivaji Maharaj Terminus
+371	2014	Amravati Pune Ac Super Fast Special	Amravati	Pune Junction
+372	22118	Amravati Pune Ac Superfast Express	Amravati	Pune Junction
+373	11406	Amravati Pune Express	Amravati	Pune Junction
+374	12766	Amravati Tirupati Bi Weekly Super Fast Express	Amravati	Tirupati
+375	51261	Amravati Wardha Passenger	Amravati	Wardha Junction
+376	52955	Amreli Junagadh Mg Passenger	Amreli	Junagadh Junction
+377	52930	Amreli Veraval Mg Passenger	Amreli	Veraval
+378	52946	Amreli Veraval Mg Passenger	Amreli	Veraval
+379	16344	Amritha Express	Madurai Junction	Trivandrum Central
+380	16343	Amritha Express	Trivandrum Central	Madurai Junction
+381	19772	Amritsar - Jaipur Express	Amritsar Junction	Ajmer Junction
+382	19782	Amritsar - Jaipur Express	Amritsar Junction	Ajmer Junction
+383	14154	Amritsar - Kanpur Express	Amritsar Junction	Kanpur Central
+384	2126	Amritsar - Nagpur Ac Super Fast Special	Amritsar Junction	Nagpur
+385	15210	Amritsar - Saharsa Jan Seva Express	Amritsar Junction	Saharsa Junction
+386	19612	Amritsar Ajmer Express	Amritsar Junction	Ajmer Junction
+387	19614	Amritsar Ajmer Express	Amritsar Junction	Ajmer Junction
+388	74661	Amritsar Atari Demu	Amritsar Junction	Attari
+389	74663	Amritsar Atari Demu	Amritsar Junction	Attari
+390	14618	Amritsar Banmankhi Jan Sewa Express	Amritsar Junction	Banmankhi Junction
+391	12412	Amritsar Chandigarh Intercity Express	Amritsar Junction	Chandigarh
+392	12242	Amritsar Chandigarh Super Fast Express	Amritsar Junction	Chandigarh
+393	14632	Amritsar Dehradun Express	Amritsar Junction	Dehradun
+394	74651	Amritsar Dera Baba Nanak Demu	Amritsar Junction	Derababa Nanak
+395	4619	Amritsar Dera Baba Nanak Prakash Parv Demu Special	Chennai Central	Amritsar Junction
+396	4621	Amritsar Dera Baba Nanak Prakash Parv Demu Special	Amritsar Junction	Derababa Nanak
+397	15934	Amritsar Dibrugarh Weekly Express	Amritsar Junction	Dibrugarh
+398	9454	Amritsar Gandhidham Summer Special	Jalandhar City	Gandhidham Bg
+399	22424	Amritsar Gorakhpur Jansadharan Express	Amritsar Junction	Gorakhpur Junction
+400	12054	Amritsar Haridwar Jan Shatabdi Express	Amritsar Junction	Haridwar Junction
+401	12422	Amritsar Hazur Sahib Nanded Super Fast Express	Amritsar Junction	Nanded
+402	54602	Amritsar Hisar Passenger	Amritsar Junction	Hisar
+403	13050	Amritsar Howrah Express	Amritsar Junction	Howrah Junction
+404	13006	Amritsar Howrah Mail	Amritsar Junction	Howrah Junction
+405	19326	Amritsar Indore Express	Amritsar Junction	Indore Junction (Bg)
+406	74642	Amritsar Jalandhar City Demu	Amritsar Junction	Jalandhar City
+407	74644	Amritsar Jalandhar City Demu	Amritsar Junction	Jalandhar City
+408	4624	Amritsar Junction Sitapur Special	Sitapur	Saharsa Junction
+409	22446	Amritsar Kanpur Weekly Super Fast Express	Amritsar Junction	Kanpur Central
+410	74682	Amritsar Khem Karan Demu	Amritsar Junction	Khem Karan
+411	74684	Amritsar Khem Karan Demu	Amritsar Junction	Khem Karan
+412	12484	Amritsar Kochuveli Weekly Super Fast Express	Amritsar Junction	Trivandrum Kochuveli
+413	14616	Amritsar Lal Kuan Express	Amritsar Junction	Lal Kuan
+414	64552	Amritsar Ludhiana Memu	Amritsar Junction	Ludhiana Junction
+415	11058	Amritsar Mumbai Csmt Express	Amritsar Junction	Chhatrapati Shivaji Maharaj Terminus
+416	22126	Amritsar Nagpur Ac Super Fast Express	Amritsar Junction	Nagpur
+417	14505	Amritsar Nangal Dam Express	Amritsar Junction	Nangal Dam
+418	12460	Amritsar New Delhi Intercity Express	Amritsar Junction	New Delhi
+419	12014	Amritsar New Delhi Shatabdi Express	Amritsar Junction	New Delhi
+420	12032	Amritsar New Delhi Shatabdi Express	Amritsar Junction	New Delhi
+421	12030	Amritsar New Delhi Swarna Jayanti Shatabdi Express	Amritsar Junction	New Delhi
+422	12408	Amritsar New Jalpaiguri Karmabhoomi Express	Amritsar Junction	New Jalpaiguri
+423	74675	Amritsar Pathankot Demu	Amritsar Junction	Pathankot Junction
+424	74671	Amritsar Pathankot Dmu	Amritsar Junction	Pathankot Junction
+425	54611	Amritsar Pathankot Passenger	Amritsar Junction	Pathankot Junction
+426	54613	Amritsar Pathankot Passenger	Amritsar Junction	Pathankot Junction
+427	54615	Amritsar Pathankot Passenger	Amritsar Junction	Pathankot Junction
+428	8428	Amritsar Puri Prakash Parv Special	Amritsar Junction	Puri
+429	74691	Amritsar Qadian Dmu	Amritsar Junction	Qadian
+430	12204	Amritsar Saharsa Garib Rath Express	Amritsar Junction	Saharsa Junction
+431	15532	Amritsar Saharsa Jansadharan Weekly Express	Amritsar Junction	Saharsa Junction
+432	4626	Amritsar Saharsa Special	Amritsar Junction	Saharsa Junction
+433	14604	Amritsar Saharsa Weekly Jansadharan Express	Amritsar Junction	Saharsa Junction
+434	59115	Anand - Godhra Passenger	Anand Junction	Godhra Junction
+435	59165	Anand - Godhra Passenger	Anand Junction	Godhra Junction
+436	59158	Anand - Vadodara Passenger	Anand Junction	Vadodara Junction
+437	79429	Anand Ahmedabad Demu	Anand Junction	Ahmedabad Junction
+438	69105	Anand Ahmedabad Memu	Anand Junction	Ahmedabad Junction
+439	69127	Anand Ahmedabad Memu	Anand Junction	Ahmedabad Junction
+440	69129	Anand Ahmedabad Memu	Anand Junction	Ahmedabad Junction
+441	69176	Anand Bharuch Memu	Anand Junction	Bharuch Junction
+442	69189	Anand Dahod Memu	Anand Junction	Dahod
+443	69133	Anand Dakor Memu	Anand Junction	Dakor
+444	69135	Anand Dakor Memu	Anand Junction	Dakor
+445	69191	Anand Gandhinagar Memu	Anand Junction	Gandhinagar Capital
+446	69123	Anand Godhra Memu	Anand Junction	Godhra Junction
+447	69125	Anand Godhra Memu	Anand Junction	Godhra Junction
+448	69145	Anand Godhra Memu	Anand Junction	Godhra Junction
+449	69147	Anand Godhra Memu	Anand Junction	Godhra Junction
+450	59169	Anand Junction - Vadtal Swaminarayan Passenger	Anand Junction	Vadtal Swaminarayan
+451	79415	Anand Khambat Demu	Anand Junction	Khambhat
+452	79425	Anand Khambat Dmu	Anand Junction	Khambhat
+453	79417	Anand Khambat Dmu	Anand Junction	Khambhat
+454	79419	Anand Khambat Dmu	Anand Junction	Khambhat
+455	79413	Anand Khambhat Demu	Anand Junction	Khambhat
+456	79427	Anand Khambhat Dmu	Anand Junction	Khambhat
+457	79421	Anand Khambhat Dmu	Anand Junction	Khambhat
+458	79423	Anand Khambhat Dmu	Anand Junction	Khambhat
+459	69104	Anand Vadodara Memu	Anand Junction	Vadodara Junction
+460	69138	Anand Vadodara Memu	Anand Junction	Vadodara Junction
+461	59163	Anand Vadtal Passenger	Anand Junction	Vadtal Swaminarayan
+462	79465	Anand Vadtal Swami Narayan Demu	Anand Junction	Vadtal Swaminarayan
+463	79467	Anand Vadtal Swami Narayan Demu	Anand Junction	Vadtal Swaminarayan
+464	8618	Anand Vihar (T) - Ranchi Specialfare Pooja Special	Anand Vihar Terminus	Ranchi
+465	4935	Anand Vihar - Haridwar Specialfare Special	Anand Vihar Terminus	Haridwar Junction
+466	2504	Anand Vihar - Kamakhya Suvidha Special	Anand Vihar Terminus	Kamakhya
+467	4118	Anand Vihar Allahabad Superfast Holi Special	Anand Vihar Terminus	Allahabad Junction
+468	5116	Anand Vihar Chhapra Special Fare Special	Anand Vihar Terminus	Chhapra
+469	13120	Anand Vihar Express	Anand Vihar Terminus	Sealdah
+470	3430	Anand Vihar Malda Specialfare Holi Special	Anand Vihar Terminus	Malda Town
+471	64555	Anand Vihar Meerut City Memu	Anand Vihar Terminus	Meerut City
+472	2266	Anand Vihar Sealdah Special Fare Puja Ac Special	Anand Vihar Terminus	Sealdah
+473	20502	Anand Vihar Terminal Agartala Rajdhani Express	Anand Vihar Terminus	Agartala
+474	22438	Anand Vihar Terminal Allahabad Humsafar Express	Anand Vihar Terminus	Allahabad Junction
+475	22406	Anand Vihar Terminal Bhagalpur Garib Rath Express	Anand Vihar Terminus	Bhagalpur
+476	4002	Anand Vihar Terminal Bhagalpur Special Fare Puja Special	Anand Vihar Terminus	Bhagalpur
+477	4050	Anand Vihar Terminal Bhagalpur Specialfare Special	Anand Vihar Terminus	Bhagalpur
+478	82420	Anand Vihar Terminal Bhubaneswar Suvidha Special	Anand Vihar Terminus	Bhubaneshwar
+479	22806	Anand Vihar Terminal Bhubaneswar Weekly Super Fast Express	Anand Vihar Terminus	Bhubaneshwar
+480	13258	Anand Vihar Terminal Danapur Jan Sadharan Express	Anand Vihar Terminus	Danapur
+481	5528	Anand Vihar Terminal Darbhanga Junction Special	Delhi	Darbhanga Junction
+482	22410	Anand Vihar Terminal Gaya Garib Rath Express	Anand Vihar Terminus	Gaya Junction
+483	4098	Anand Vihar Terminal Gaya Special	Anand Vihar Terminus	Gaya Junction
+484	4048	Anand Vihar Terminal Gaya Special	Anand Vihar Terminus	Gaya Junction
+485	4044	Anand Vihar Terminal Gaya Special Fare Special	Anand Vihar Terminus	Gaya Junction
+486	5046	Anand Vihar Terminal Gorakhpur Holi Special	Anand Vihar Terminus	Gorakhpur Junction
+487	12572	Anand Vihar Terminal Gorakhpur Humsafar Express	Anand Vihar Terminus	Gorakhpur Junction
+488	12596	Anand Vihar Terminal Gorakhpur Humsafar Express	Anand Vihar Terminus	Gorakhpur Junction
+489	4046	Anand Vihar Terminal Gorakhpur Special	Anand Vihar Terminus	Gorakhpur Junction
+490	15058	Anand Vihar Terminal Gorakhpur Weekly Express	Anand Vihar Terminus	Gorakhpur Junction
+491	12444	Anand Vihar Terminal Haldia Super Fast Express	Anand Vihar Terminus	Haldia
+492	12324	Anand Vihar Terminal Howrah Super Fast Express	Anand Vihar Terminus	Howrah Junction
+493	12250	Anand Vihar Terminal Howrah Yuva Express	Anand Vihar Terminus	Howrah Junction
+494	3502	Anand Vihar Terminal Jasidih Specialfare Super Fast Special	Anand Vihar Terminus	Jasidih Junction
+495	4042	Anand Vihar Terminal Jaynagar Ac Special Fare Special	Anand Vihar Terminus	Jaynagar
+496	12436	Anand Vihar Terminal Jaynagar Garib Rath Express	Anand Vihar Terminus	Jaynagar
+497	15622	Anand Vihar Terminal Kamakhya Weekly Express	Anand Vihar Terminus	Kamakhya
+498	14152	Anand Vihar Terminal Kanpur Express	Anand Vihar Terminus	Kanpur Central
+499	4052	Anand Vihar Terminal Katihar Special	Anand Vihar Terminus	Katihar Junction
+500	15060	Anand Vihar Terminal Lalkuan Intercity Express	Anand Vihar Terminus	Lal Kuan
+501	4422	Anand Vihar Terminal Lucknow Ac Special	Anand Vihar Terminus	Lucknow
+502	12584	Anand Vihar Terminal Lucknow Junction Ac Double Decker Express	Anand Vihar Terminus	Lucknow
+503	4434	Anand Vihar Terminal Lucknow Special	Anand Vihar Terminus	Lucknow
+504	4436	Anand Vihar Terminal Lucknow Special	Anand Vihar Terminus	Lucknow
+505	12236	Anand Vihar Terminal Madhupur Humsafar Express	Anand Vihar Terminus	Madhupur Junction
+506	13430	Anand Vihar Terminal Malda Weekly Express	Anand Vihar Terminus	Malda Town
+507	15026	Anand Vihar Terminal Mau Express	Anand Vihar Terminus	Mau Junction
+508	64554	Anand Vihar Terminal Moradabad Memu	Anand Vihar Terminus	Moradabad
+509	12212	Anand Vihar Terminal Muzaffarpur Garib Rath Express	Anand Vihar Terminus	Muzaffarpur Junction
+510	3296	Anand Vihar Terminal Patna Ac Special	Anand Vihar Terminus	Patna Junction
+511	4022	Anand Vihar Terminal Patna Ac Special	Anand Vihar Terminus	Patna Junction
+512	12428	Anand Vihar Terminal Rewa Super Fast Express	Anand Vihar Terminus	Rewa
+513	15530	Anand Vihar Terminal Saharsa Jan Sadharan Express	Anand Vihar Terminus	Saharsa Junction
+514	4424	Anand Vihar Terminal Saharsa Special	Anand Vihar Terminus	Saharsa Junction
+515	5536	Anand Vihar Terminal Saharsa Special Fare Special	Anand Vihar Terminus	Saharsa Junction
+516	22858	Anand Vihar Terminal Santragachi Weekly Superfast Express	Anand Vihar Terminus	Kolkata Santragachi Junction
+517	4401	Anand Vihar Terminal Shri Mata Vaishno Devi Katra Ac Special Fare Special	Anand Vihar Terminus	Shri Mata Vaishno Devi Katra
+518	22408	Anand Vihar Terminal Varanasi Garib Rath Express	Anand Vihar Terminus	Varanasi Junction
+519	4208	Anand Vihar Terminal Varanasi Junction Express Special	Anand Vihar Terminus	Varanasi Junction
+520	4204	Anand Vihar Terminal Varanasi Junction Special	Anand Vihar Terminus	Varanasi Junction
+521	4012	Anand Vihar Terminal Varanasi Specialfare Special	Anand Vihar Terminus	Varanasi Junction
+522	2052	Anand Vihar Terminal-Agartala Raj Special	Anand Vihar Terminus	Agartala
+523	22127	Anandwan Super Fast Express	Lokmanya Tilak Terminus	Kazipet Junction
+524	22128	Anandwan Super Fast Express	Kazipet Junction	Lokmanya Tilak Terminus
+525	16723	Ananthapuri Express	Chennai Egmore	Kollam Junction
+526	16724	Ananthapuri Express	Kollam Junction	Chennai Egmore
+527	12316	Ananya Express	Udaipur City	Kolkata
+528	12315	Ananya Express	Kolkata	Udaipur City
+529	53529	Andal - Rampur Hat Passenger	Andal Junction	Rampur Hat
+530	73531	Andal - Sainthia Passenger	Andal Junction	Sainthia
+531	73533	Andal - Sainthia Passenger	Andal Junction	Sainthia
+532	73537	Andal - Sainthia Passenger	Andal Junction	Sainthia
+533	53535	Andal - Sainthia Passenger	Andal Junction	Sainthia
+534	73539	Andal Jasidih Demu	Andal Junction	Jasidih Junction
+535	63529	Andal Rampurhat Memu	Andal Junction	Rampur Hat
+536	63531	Andal Sainthia Memu	Andal Junction	Sainthia
+537	63533	Andal Sainthia Memu	Andal Junction	Sainthia
+538	63535	Andal Sainthia Memu	Andal Junction	Sainthia
+539	63537	Andal Sainthia Memu	Andal Junction	Sainthia
+540	6501	Andal Siuri Memu Special	Andal Junction	Suri
+541	16032	Andaman Express	Shri Mata Vaishno Devi Katra	Chennai Central
+542	16031	Andaman Express	Chennai Central	Shri Mata Vaishno Devi Katra
+543	22415	Andhra Pradesh Ac Super Fast Express	Visakhapatnam Junction	New Delhi
+544	22416	Andhra Pradesh Ac Super Fast Express	New Delhi	Visakhapatnam Junction
+545	12723	Andhra Pradesh Express	Hyderabad Deccan	New Delhi
+546	12707	Andhra Pradesh Sampark Kranti Express	Tirupati	Hazrat Nizamuddin
+547	12708	Andhra Pradesh Sampark Kranti Express	Hazrat Nizamuddin	Tirupati
+548	12254	Anga Express	Bhagalpur	Yesvantpur Junction
+549	12253	Anga Express	Yesvantpur Junction	Bhagalpur
+550	6735	Angamali - Ernakulam Special	Angamaly	Ernakulam Junction
+551	6733	Angamaly - Ernakulam Junction Special	Angamaly	Ernakulam Junction
+552	6737	Angamaly - Piravam Road Special	Angamaly	Piravam Road
+553	68421	Angul Puri Fast Memu	Angul	Puri
+554	58421	Angul Puri Fast Passenger	Angul	Puri
+555	59167	Ankleshwar Rajpipla Passenger	Ankleshwar Junction	Rajpipla
+556	4782	Anupgarh Bathinda Passenger Special	Anupgarh	Bhatinda Junction
+557	59707	Anupgarh Suratgarh Passenger	Anupgarh	Suratgarh Junction
+558	59709	Anupgarh Suratgarh Passenger	Anupgarh	Suratgarh Junction
+559	59731	Anupgarh Suratgarh Passenger	Anupgarh	Suratgarh Junction
+560	59733	Anupgarh Suratgarh Passenger	Anupgarh	Suratgarh Junction
+561	58227	Anuppur - Manendragarh Passenger	Anuppur Junction	Manendragarh
+562	68739	Anuppur Bilaspur Memu	Shahdol	Bilaspur
+563	51756	Anuppur Chirimiri Passenger	Anuppur Junction	Chirmiri
+564	22631	Anuvrat Ac Super Fast Express	Madurai Junction	Bikaner Junction
+565	22632	Anuvrat Ac Super Fast Express	Bikaner Junction	Madurai Junction
+566	63214	Ara Patna Memu	Ara	Patna Junction
+567	63224	Ara Patna Memu	Ara	Patna Junction
+568	54271	Ara Pt Deen Dayal Upadhyaya Junction Passenger	Ara	Pt Deen Dayal Upadhyaya Jn
+569	18639	Ara Ranchi Weekly Express	Ara	Ranchi
+570	75271	Ara Sasaram Demu	Ara	Sasaram
+571	75273	Ara Sasaram Demu	Ara	Sasaram
+572	54273	Ara Sasaram Passenger	Ara	Sasaram
+573	56261	Arakkonam - Bangalore Passenger	Arakkonam Junction	Bangalore City Junction
+574	56003	Arakkonam - Chengalpattu Passenger	Arakkonam Junction	Chengalpattu
+575	56005	Arakkonam Chengulpattu Passenger	Arakkonam Junction	Chengalpattu
+576	40902	Arakkonam Chennai Beach Emu	Tirumalpur	Chengalpattu
+577	66016	Arakkonam Chennai Beach Fast Memu	Arakkonam Junction	Chennai Beach
+578	66050	Arakkonam Chennai Memu	Tirupati	Arakkonam Junction
+579	66040	Arakkonam Chennai Memu	Tirupati	Arakkonam Junction
+580	66022	Arakkonam Chennai Moore Market Complex Memu	Arakkonam Junction	Chennai Central Suburban
+581	66010	Arakkonam Chennai Suburban Terminal Fast Memu	Arakkonam Junction	Chennai Central Suburban
+582	66008	Arakkonam Chennai Suburban Terminal Memu	Arakkonam Junction	Chennai Central Suburban
+583	66014	Arakkonam Chennai Suburban Terminal Memu	Arakkonam Junction	Chennai Central Suburban
+584	16085	Arakkonam Jolarpettai Express	Arakkonam Junction	Jolarpettai
+585	56121	Arakkonam Jolarpettai Passenger	Arakkonam Junction	Jolarpettai
+586	56002	Arakkonam Junction Mgr Chennai Passenger	Arakkonam Junction	Chennai Central
+587	56011	Arakkonam Kadapa Passenger	Arakkonam Junction	Cuddapah
+588	66057	Arakkonam Katpadi Memu	Arakkonam Junction	Katpadi Junction,Vellore
+589	56007	Arakkonam Katpadi Passenger	Arakkonam Junction	Katpadi Junction,Vellore
+590	5601	Arakkonam Renigunta Tirupati Brahmotasavam Passenger Special	Arakkonam Junction	Renigunta Junction
+591	66019	Arakkonam Salem Memu	Arakkonam Junction	Salem Junction
+592	66039	Arakkonam Tirupati Memu	Arakkonam Junction	Tirupati
+593	66049	Arakkonam Tirupati Memu	Arakkonam Junction	Tirupati
+594	66063	Arakkonam Vellore Cantonmentmemu	Arakkonam Junction	Vellore Cantonment
+595	56013	Arakkonam Vellore Cantonmentpassenger	Arakkonam Junction	Vellore Cantonment
+596	66059	Arakkonam Vellore Cantt Memu	Arakkonam Junction	Vellore Cantonment
+597	56009	Arakkonam Vellore Cantt Passenger	Arakkonam Junction	Vellore Cantonment
+598	12885	Aranyak Express	Kolkata Shalimar	Bhojudih Junction
+599	12886	Aranyak Express	Bhojudih Junction	Kolkata Shalimar
+600	12356	Archana Super Fast Express	Jammu Tawi	Patna Junction
+601	12355	Archana Super Fast Express	Patna Junction	Jammu Tawi
+602	12508	Aronai Express	Silchar	Trivandrum Central
+603	12507	Aronai Express	Trivandrum Central	Silchar
+604	56273	Arsikere Hubballi Passenger	Arsikere Junction	Hubli
+605	56224	Arsikere Ksr Bengaluru Passenger	Arsikere Junction	Bangalore City Junction
+606	56267	Arsikere Mysuru Passenger	Arsikere Junction	Mysore City Junction
+607	56265	Arsikere Mysuru Passenger	Arsikere Junction	Mysore City Junction
+608	22411	Arunachal Ac Super Fast Express	Naharlagun	Anand Vihar Terminus
+609	2411	Arunachal Ac Super Fast Special	Naharlagun	Anand Vihar Terminus
+610	15813	Arunachal Express	Rangiya Junction	Murkeongselek
+611	15814	Arunachal Express	Dhemaji	Rangiya Junction
+612	58020	Asansol - Adra Passenger	Asansol Junction	Adra Junction
+613	53321	Asansol - Dhanbad Passenger	Asansol Junction	Dhanbad Junction
+614	58018	Asansol - Kharagpur Passenger	Asansol Junction	Kharagpur Junction
+615	53521	Asansol - Varanasi Passenger	Asansol Junction	Varanasi Junction
+616	68046	Asansol Adra Memu	Asansol Junction	Adra Junction
+617	68062	Asansol Adra Memu	Asansol Junction	Adra Junction
+618	68064	Asansol Adra Memu	Asansol Junction	Adra Junction
+619	68066	Asansol Adra Memu	Asansol Junction	Adra Junction
+620	68068	Asansol Adra Memu	Asansol Junction	Adra Junction
+621	68070	Asansol Adra Memu	Asansol Junction	Adra Junction
+622	68060	Asansol Barabhum Memu	Asansol Junction	Barabhum
+623	63506	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+624	63508	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+625	63510	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+626	63512	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+627	63514	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+628	63516	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+629	63518	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+630	63520	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+631	63522	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+632	63524	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+633	63526	Asansol Barddhaman Memu	Asansol Junction	Barddhaman Junction
+634	53523	Asansol Barkakana Passenger	Asansol Junction	Barkakana
+635	63592	Asansol Bokaro Steel City Memu	Asansol Junction	Bokaro Steel City
+636	63596	Asansol Bokaro Steel City Memu	Asansol Junction	Bokaro Steel City
+637	12376	Asansol Chennai Express	Asansol Junction	Chennai Central
+638	6018	Asansol Coimbatore Special	Asansol Junction	Coimbatore Junction
+639	63551	Asansol Dhanbad Memu	Asansol Junction	Dhanbad Junction
+640	3301	Asansol Dhanbad Memu Special	Asansol Junction	Dhanbad Junction
+641	13506	Asansol Digha Express	Asansol Junction	Digha
+642	63528	Asansol Durgapur Memu	Asansol Junction	Durgapur
+643	63545	Asansol Gaya Memu	Asansol Junction	Gaya Junction
+644	63541	Asansol Gomoh Memu	Asansol Junction	Gomoh Junction
+645	63543	Asansol Gomoh Memu	Asansol Junction	Gomoh Junction
+646	13509	Asansol Gonda Express	Asansol Junction	Gonda Junction
+647	13507	Asansol Gorakhpur Express	Asansol Junction	Gorakhpur Junction
+648	13502	Asansol Haldia Express	Asansol Junction	Haldia
+649	63561	Asansol Jasidih Memu	Asansol Junction	Jasidih Junction
+650	63563	Asansol Jasidih Memu	Asansol Junction	Jasidih Junction
+651	63569	Asansol Jasidih Memu	Asansol Junction	Jasidih Junction
+652	63567	Asansol Jhajha Memu	Asansol Junction	Jhajha
+653	68044	Asansol Kharagpur Memu	Asansol Junction	Kharagpur Junction
+654	12361	Asansol Mumbai Csmt Super Fast Express	Asansol Junction	Chhatrapati Shivaji Maharaj Terminus
+655	3511	Asansol Patna Special	Asansol Junction	Patna Junction
+656	3509	Asansol Patna Special	Asansol Junction	Patna Junction
+657	63594	Asansol Purulia Memu	Asansol Junction	Purulia Junction
+658	63598	Asansol Ranchi Memu	Asansol Junction	Ranchi
+659	12384	Asansol Sealdah Super Fast Intercity Express	Asansol Junction	Sealdah
+660	13512	Asansol Tatanagar Express	Asansol Junction	Tatanagar Junction
+661	68055	Asansol Tatanagar Memu	Asansol Junction	Tatanagar Junction
+662	63553	Asansol Varanasi Memu	Asansol Junction	Varanasi Junction
+663	79401	Asarva Himmatnagar Demu	Asarva Junction	Himmatnagar
+664	79403	Asarva Himmatnagar Demu	Asarva Junction	Himmatnagar
+665	9403	Asarva Junction Himmatnagar Special	Asarva Junction	Himmatnagar
+666	4905	Ashok Nagar Delhi Sarai Rohilla Pilgrim Special	Ashok Nagar	Delhi Sarai Rohilla
+667	17326	Ashokapuram Belagavi Express	Ashokapuram	Belgaum
+668	12916	Ashram Express	Delhi	Ahmedabad Junction
+669	12915	Ashram Super Fast Express	Ahmedabad Junction	Delhi
+670	74662	Atari Amritsar Demu	Attari	Amritsar Junction
+671	74664	Atari Amritsar Demu	Attari	Amritsar Junction
+672	1710	Atari Jabalpur Special	Attari	Jabalpur
+673	1708	Atari Jabalpur Special	Attari	Jabalpur
+674	14002	Attari - Delhi Express	Attari	Delhi
+675	12954	August Kranti Rajdhani Express	Hazrat Nizamuddin	Mumbai Central
+676	12953	August Kranti Rajdhani Express	Mumbai Central	Hazrat Nizamuddin
+677	55164	Aunrihar - Shahganj Passenger	Aunrihar Junction	Shahganj Junction
+678	75135	Aunrihar Jaunpur Junction Demu	Aunrihar Junction	Jaunpur Junction
+679	75137	Aunrihar Jaunpur Junction Demu	Aunrihar Junction	Jaunpur Junction
+680	55143	Aunrihar Jaunpur Junction Passenger	Aunrihar Junction	Jaunpur Junction
+681	7066	Aurangabad H S Nanded Special	Aurangabad	Nanded
+682	17619	Aurangabad H S Nanded Weekly Express	Aurangabad	Nanded
+683	57550	Aurangabad Hyderabad Passenger	Aurangabad	Hyderabad Deccan
+684	17621	Aurangabad Renigunta Weekly Express	Aurangabad	Renigunta Junction
+685	15610	Avadh Assam Express	Lalgarh Junction	Guwahati
+686	15909	Avadh Assam Express	Dibrugarh	Lalgarh Junction
+687	15910	Avadh Assam Express	Lalgarh Junction	Dibrugarh
+688	66006	Avadi Chennai Moore Market Memu	Avadi	Chennai Central Suburban
+689	66000	Avadi Chennai Suburban Terminal Memu	Avadi	Chennai Central Suburban
+690	66002	Avadi Chennai Suburban Terminal Memu	Avadi	Chennai Central Suburban
+691	66004	Avadi Chennai Suburban Terminal Memu	Avadi	Chennai Central Suburban
+692	12961	Avantika Super Fast Express	Mumbai Central	Indore Junction (Bg)
+693	12962	Avantika Super Fast Express	Indore Junction (Bg)	Mumbai Central
+694	55002	Ayodhya Gorakhpur Passenger	Ayodhya	Gorakhpur Junction
+695	54240	Ayodhya Mankapur Passenger	Ayodhya	Mankapur Junction
+696	54244	Ayodhya Mankapur Passenger	Ayodhya	Mankapur Junction
+697	12130	Azad Hind Express	Howrah Junction	Pune Junction
+698	12129	Azad Hind Express	Pune Junction	Howrah Junction
+699	13138	Azamgarh Kolkata Weekly Express	Azamgarh	Kolkata
+700	11054	Azamgarh Mumbai Ltt Weekly Express	Azamgarh	Lokmanya Tilak Terminus
+701	55135	Azamgarh Varanasi City Passenger	Azamgarh	Varanasi City
+702	12947	Azimabad Express	Ahmedabad Junction	Patna Junction
+703	12948	Azimabad Express	Patna Junction	Ahmedabad Junction
+704	73032	Azimganj - Katwa Demu	Azimganj Junction	Katwa
+705	53010	Azimganj - Katwa Passenger	Azimganj Junction	Katwa
+706	53020	Azimganj - Katwa Passenger	Azimganj Junction	Katwa
+707	73033	Azimganj - Nalhati Demu	Azimganj Junction	Nalhati
+708	73021	Azimganj - Rampurhat Demu	Azimganj Junction	Rampur Hat
+709	53035	Azimganj Barharwa Passenger	Azimganj Junction	Barharwa Junction
+710	53433	Azimganj Barharwa Passenger	Azimganj Junction	Barharwa Junction
+711	53029	Azimganj Bhagalpur Passenger	Azimganj Junction	Bhagalpur
+712	13028	Azimganj Howrah Kaviguru Express	Azimganj Junction	Howrah Junction
+713	53002	Azimganj Howrah Passenger	Azimganj Junction	Howrah Junction
+714	63010	Azimganj Katwa Memu	Azimganj Junction	Katwa
+715	63020	Azimganj Katwa Memu	Azimganj Junction	Katwa
+716	63032	Azimganj Katwa Memu	Azimganj Junction	Katwa
+717	53006	Azimganj Katwa Passenger	Azimganj Junction	Katwa
+718	53012	Azimganj Katwa Passenger	Azimganj Junction	Katwa
+719	53014	Azimganj Katwa Passenger	Azimganj Junction	Katwa
+720	53016	Azimganj Katwa Passenger	Azimganj Junction	Katwa
+721	53018	Azimganj Katwa Passenger	Azimganj Junction	Katwa
+722	53436	Azimganj Katwa Passenger	Azimganj Junction	Katwa
+723	53027	Azimganj Malda Passenger	Azimganj Junction	Malda Town
+724	63033	Azimganj Nalhati Memu	Azimganj Junction	Nalhati
+725	73037	Azimganj Nimtita Demu	Azimganj Junction	Nimtita
+726	63021	Azimganj Rampurhat Memu	Azimganj Junction	Rampur Hat
+727	63052	Azimganj Rampurhat Memu	Rampur Hat	Azimganj Junction
+728	53031	Azimganj Rampurhat Passenger	Azimganj Junction	Rampur Hat
+729	53023	Azimganj Rampurhat Passenger	Azimganj Junction	Rampur Hat
+730	53025	Azimganj Rampurhat Passenger	Azimganj Junction	Rampur Hat
+731	53021	Azimganj Sahibganj Passenger	Azimganj Junction	Sahibganj Junction
+732	09026	Asr-Bdts Spl Clone Train	Amritsar Junction	Bandra Terminus
+733	02833	Ahmedabad Howrah Super Fast Express	Ahmedabad Junction	Howrah Junction
+734	02501	Agartala New Delhi Covid 19 Ac Special	Agartala	New Delhi
+735	09707	Amrapur Aravali Express Covid 19 Special	Bandra Terminus	Shri Ganganagar
+736	09415	Adi - Dli Clone Special	Ahmedabad Junction	Delhi
+737	06225	Ask-Smet Janasadharan Spl	Arsikere Junction	Shimoga Town
+738	02054	Amritsar Haridwar Jan Shatabdi Express	Amritsar Junction	Haridwar Junction
+739	5104	Ajmer - Chhapra Urs Special	Ajmer Junction	Chhapra
+740	5016	Anand Vihar - Gorakhpur Holi Special	Anand Vihar Terminus	Gorakhpur Junction
+741	5286	Ajmer - Barauni Urs Special	Ajmer Junction	Barauni Junction
+742	8422	Ajmer - Puri Urs Mela Special	Ajmer Junction	Puri
+743	7132	Ajmer - Vijayawada - Machilipatnam Urs Link Special	Ajmer Junction	Machelipatnam
+744	7228	Ajmer - Nellore Urs Special	Ajmer Junction	Nellore
+745	9640	Ajmer - Jaipur Passenger Special (Unreserved)	Ajmer Junction	Jaipur
+746	7130	Ajmer - Kacheguda Urs Special Fare Special	Ajmer Junction	Kacheguda
+747	7126	Ajmer - Hyderabad Urs Special	Ajmer Junction	Hyderabad Deccan
+748	3420	Ara - Banka Exam Special	Ara	Banka
+749	3518	Asansol - Malda Town Special Fare Special	Asansol Junction	Malda Town
+750	02957	Ahmedabad New Delhi Covid 19 Ac Special	Sabarmati Bg	New Delhi
+751	02916	Ashram Express	Delhi	Ahmedabad Junction
+752	09165	Ahmedabad Darbhanga Sabarmati Express	Ahmedabad Junction	Darbhanga Junction
+753	09167	Ahmedabad Varanasi Sabarmati Express	Ahmedabad Junction	Varanasi Junction
+754	02947	Azimabad Express	Ahmedabad Junction	Patna Junction
+755	02065	Ajmer Delhi Sarai Rohilla Jan Shatabdi Express	Ajmer Junction	Delhi Sarai Rohilla
+756	02408	Amritsar New Jalpaiguri Karmabhoomi Express	Amritsar Junction	New Jalpaiguri
+757	02723	Andhra Pradesh Express	Hyderabad Deccan	New Delhi
+758	02915	Ashram Super Fast Express	Ahmedabad Junction	Delhi
+759	02948	Azimabad Express	Patna Junction	Ahmedabad Junction
+760	02220	Anvt-Gct Suhaildev Exp	Anand Vihar Terminus	Ghazipur City
+761	02234	Anvt-Gct Exp	Anand Vihar Terminus	Ghazipur City
+762	06930	Ava-Ubl Janasadharan Spl	Ambewadi	Hubli
+763	09089	Adi - Gkp Special	Ahmedabad Junction	Gorakhpur Junction
+764	09090	Adi - Gkp Special	Gorakhpur Junction	Ahmedabad Junction
+765	09083	Adi - Mfp Special	Ahmedabad Junction	Muzaffarpur Junction
+766	02988	Ajmer Sealdah Super Fast Express Covid 19 Special	Ajmer Junction	Sealdah
+767	02316	Ananya Express Covid 19 Special	Udaipur City	Kolkata
+768	02315	Ananya Express Covid 19 Special	Kolkata	Udaipur City
+769	02466	Anvt-Mdp Suf Spl	Anand Vihar Terminus	Madhupur Junction
+770	02282	Aii-Jbp Dayodai Sf Spl	Ajmer Junction	Jabalpur
+771	05934	Amritsar Dibrugarh Weekly Express Covid 19 Special	Amritsar Junction	Dibrugarh
+772	02572	Anand Vihar Terminal Gorakhpur Humsafar Express Covid 19 Special	Anand Vihar Terminus	Gorakhpur Junction
+773	05626	Agartala Deoghar Weekly Express Covid 19 Special	Agartala	Deoghar
+774	08406	Ahmedabad Puri Express Covid 19 Special	Ahmedabad Junction	Puri
+775	05909	Avadh Assam Express Covid 19 Special	Dibrugarh	Lalgarh Junction
+776	05910	Avadh Assam Express Covid 19 Special	Lalgarh Junction	Dibrugarh
+777	02574	Anvt-Mfp Clone Spl	Anand Vihar Terminus	Muzaffarpur Junction
+778	09465	Ahmedabad Darbhanga Covid Special Clone Train	Ahmedabad Junction	Darbhanga Junction
+779	09447	Adi-Pnbe Spl Clone Train	Ahmedabad Junction	Patna Junction
+780	02996	Aii-Bdts Suf Spl	Ajmer Junction	Bandra Terminus
+781	05055	Af-Rmr- Puja Spl Exp	Agra Fort	Ramnagar
+782	02990	Aii-Ddr Sf Spl	Ajmer Junction	Dadar (Western)
+783	02596	Anvt-Gkp Hamsafar Exp	Anand Vihar Terminus	Gorakhpur Junction
+784	02766	Ami-Tpty	Amravati	Tirupati
+785	02820	Anvt-Bbs Festival S F Spl	Anand Vihar Terminus	Bhubaneshwar
+786	06209	Aii-Mys Festival Exp Spl	Ajmer Junction	Mysore City Junction
+787	02396	Aii-Rjpb Festival Spl	Ajmer Junction	Rajendar Nagar Bihar
+788	01142	Adb-Csmt Spl	Adilabad	Chhatrapati Shivaji Maharaj Terminus
+789	01266	Abkp-Mml Exp	Ambikapur	Jabalpur
+790	01806	Agc-Jhs Spl Exp	Agra Cantonment	Jhansi Junction
+791	01808	Agc-Jhs Spl Exp	Agra Cantonment	Jhansi Junction
+792	02026	Asr-Ngp Ac Exp	Amritsar Junction	Nagpur
+793	02038	Aii-Puri S F Special	Ajmer Junction	Puri
+794	02118	Ami-Pune Ac Spl	Amravati	Pune Junction
+795	02159	Ami- Jbp Suf Exp	Lucknow	Jabalpur
+796	02224	Ajni-Pune-Ac Spl	Ajni	Pune Junction
+797	02240	Ajni-Pune-Ac Spl	Ajni	Pune Junction
+798	02248	Adi-Gwl Superfast	Ahmedabad Junction	Gwalior
+799	02318	Asr Koaa Festival Spl	Amritsar Junction	Kolkata
+800	02320	Agc Koaa Sf Special	Agra Cantonment	Kolkata
+801	02342	Asn Hwh Suf Spl	Asansol Junction	Howrah Junction
+802	02380	Asr Sdah Special	Amritsar Junction	Sealdah
+803	02421	Aii-Jat Sf Spl	Ajmer Junction	Jammu Tawi
+804	02428	Anvt-Rewa Express	Anand Vihar Terminus	Rewa
+805	02547	Agc-Adi Superfast	Agra Cantonment	Ahmedabad Junction
+806	02548	Adi-Agc Super Fast	Ahmedabad Junction	Agra Cantonment
+807	02550	Anvt-Kyq Express Special	Anand Vihar Terminus	Kamakhya
+808	02640	Allp-Mas Sf Spl	Alappuzha	Chennai Central
+809	02655	Adi-Mas Sf Special	Ahmedabad Junction	Chennai Central
+810	02814	Anvt Bbs Weekly Sf Spl	Anand Vihar Terminus	Bhubaneshwar
+811	02844	Adi-Puri S F Exp.	Ahmedabad Junction	Puri
+812	02876	Anvt-Puri Neelachal	Anand Vihar Terminus	Puri
+813	02953	Aug Kr Raj Exp	Ahmedabad Junction	Hazrat Nizamuddin
+814	02954	Ag Kranti Rjdhn	Hazrat Nizamuddin	Mumbai Central
+815	02978	Aii Ers Sf Special	Ajmer Junction	Ernakulam Junction
+816	03006	Asr Hwh Festival Spl	Amritsar Junction	Howrah Junction
+817	03018	Az Hwh Special	Azimganj Junction	Howrah Junction
+818	03031	Az - Mldt Passenger	Azimganj Junction	Malda Town
+819	03174	Agtl Sdah Festival Spl	Agartala	Sealdah
+820	03222	Ara-Pnbe Memu Special	Ara	Patna Junction
+821	03352	Allepy-Dhanbad Express	Alappuzha	Dhanbad Junction
+822	03541	Asn-Dhn Pgr Spl	Asansol Junction	Dhanbad Junction
+823	03543	Asn Dhn Memu Pgr	Asansol Junction	Dhanbad Junction
+824	04162	Anvt-Cnb Weekly Spl	Anand Vihar Terminus	Kanpur Central
+825	04195	Af Aii Intercity	Agra Fort	Ajmer Junction
+826	04196	Aii Af Intercity	Ajmer Junction	Agra Fort
+827	04311	Ala Hazrat Exp Spl	Bareilly	Bhuj
+828	04312	Ala Hazrat Exp Spl	Bhuj	Bareilly
+829	04522	Ambala-Delhi Exp Spl	Ambala Cantonment	Delhi
+830	05026	Anvr-Mau Spl Exp	Anand Vihar Terminus	Mau Junction
+831	05058	Anvt-Gkp Express Spl	Anand Vihar Terminus	Gorakhpur Junction
+832	05097	Amarnath Exp	Bhagalpur	Jammu Tawi
+833	05098	Amarnath Exp	Jammu Tawi	Bhagalpur
+834	05465	Apdj-Bxt Passenger Spl	Alipurduar Junction	Bamanhat
+835	05530	Anvt-Shc Special	Anand Vihar Terminus	Saharsa Junction
+836	05560	Adi-Dbg Special	Ahmedabad Junction	Darbhanga Junction
+837	05768	Apdj-Sguj Intercity Spl	Alipurduar Junction	Siliguri
+838	05769	Apdj-Lmg Intercity Spl	Alipurduar Junction	Lumding Junction
+839	06276	Ask-Ypr Demu	Arsikere Junction	Yesvantpur Junction
+840	06307	Allp-Can Spl	Alappuzha	Cannanore
+841	07640	Ak-Kcg Exp	Akola Junction	Kacheguda
+842	07675	Agtl-Dmr Dmu Special	Agartala	Dharmanagar
+843	07679	Agtl-Dmr Dmu Spl	Agartala	Dharmanagar
+844	08028	Asn - Kgp Exp Spl	Asansol Junction	Kharagpur Junction
+845	08238	Asr Bsp Fest. Spl	Amritsar Junction	Bilaspur
+846	08242	Abkp Durg Exp Spl	Ambikapur	Durg Junction
